@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>lm_addtocart</name>
+	<displayName><![CDATA[Add to cart button]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Module displaying add to cart button on product miniature]]></description>
+	<author><![CDATA[Łukasz Makowski]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
